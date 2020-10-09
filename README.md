@@ -5,4 +5,4 @@
        
        FR : Menu Admin Version Bêta pour Greed-Island
        EN : Admin Menu, Beta Version for Greed-Island
-       My Discord : Sneaky'#6666
+       My Discord : Sneaky'#0001
